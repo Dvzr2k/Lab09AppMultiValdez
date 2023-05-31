@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:GestureValdez"
+             x:Class="GestureValdez.PanDemo">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Label Text="Esta es la imagen con vista panoramica" FontSize="24" HorizontalTextAlignment="Center" 
+                   TextColor="Green" ></Label>
+            <local:PanContainer>
+                <Image Source="gato.jpg" WidthRequest="1024" HeightRequest="768"/>
+            </local:PanContainer>
+            <Button Text="Made by Valdez" TextColor="Green" BackgroundColor="Black"
+                    AbsoluteLayout.LayoutFlags="PositionProportional"
+                    AbsoluteLayout.LayoutBounds="0.5, 0.9, -1, -1" />
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

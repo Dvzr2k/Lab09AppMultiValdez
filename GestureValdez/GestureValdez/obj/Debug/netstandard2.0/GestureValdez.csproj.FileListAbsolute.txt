@@ -1,0 +1,16 @@
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\bin\Debug\netstandard2.0\GestureValdez.deps.json
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\bin\Debug\netstandard2.0\GestureValdez.dll
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\bin\Debug\netstandard2.0\GestureValdez.pdb
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\GestureValdez.csproj.AssemblyReference.cache
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\GestureValdez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\PanDemo.xaml.g.cs
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\GestureValdez.AssemblyInfoInputs.cache
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\GestureValdez.AssemblyInfo.cs
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\GestureValdez.csproj.CoreCompileInputs.cache
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\GestureValdez.dll
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\refint\GestureValdez.dll
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\GestureValdez.pdb
+D:\Users\diegu\Source\Repos\GestureValdez\GestureValdez\GestureValdez\obj\Debug\netstandard2.0\ref\GestureValdez.dll

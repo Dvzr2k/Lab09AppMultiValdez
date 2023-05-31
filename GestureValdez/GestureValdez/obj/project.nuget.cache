@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QmUR65vMJFCRznQn2lE9Z7okSRRKJ5U/4K8BejB5LzzPlUHmV/C8VEHb+AmTLTiK3DMeTItx3JdpF0ZrXBV7xA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\diegu\\Source\\Repos\\GestureValdez\\GestureValdez\\GestureValdez\\GestureValdez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diegu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

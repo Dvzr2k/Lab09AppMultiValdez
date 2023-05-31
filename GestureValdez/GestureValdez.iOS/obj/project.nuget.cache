@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ApCY0FB8ItSsr5WDZ+9Bp+i07mp6YfELwalX6MXH6ctnxzeXFDhbNHuUhZwz5vEux4pMHPAGHbRL+OZMu8RerA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\diegu\\Source\\Repos\\GestureValdez\\GestureValdez\\GestureValdez.iOS\\GestureValdez.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diegu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
